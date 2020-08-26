@@ -1,0 +1,13 @@
+package com.sikhosana.alcorncsforum;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AlcorncsforumApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(AlcorncsforumApplication.class, args);
+    }
+
+}
